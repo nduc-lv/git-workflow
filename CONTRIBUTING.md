@@ -1,6 +1,6 @@
 # The Odin Project Contributing Guide
 
-Thank you for expressing interest in contributing to The Odin Project (TOP)! Whether you are a first time contributor or you have made several contributions to our repos, please be sure to read this guide thoroughly before contributing as it will lessen the chances of any issues arising during the process.
+Thank you for expressing interest in contributing to The Odin Project (TOP)! Whether you are a first time contributor or you have made several contributions to our repos, please be sure to read this guide thoroughly before contributing as it will lessen the chances of any issues arising during the time when you were making the contribution.
 
 ## Table of Contents
 * [Curriculum Structure](#curriculum-structure)
@@ -242,3 +242,6 @@ Once you have the repo forked and cloned, and the upstream remote has been set, 
 
 ## Further Help
 Please let us know if you require any further help with any of the steps in this guide by creating an issue in the relevant repository. If you need help with creating an issue [GitHub has a guide on how to do so](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue). For questions not covered by this guide you can also join our [Discord](https://discord.com/invite/fbFCkYabZB).
+
+## Something new
+Some new features here
